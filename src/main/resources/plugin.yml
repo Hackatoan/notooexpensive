@@ -1,0 +1,6 @@
+name: NoTooExpensive
+version: 1.0.0
+main: dev.hackatoa.notooexpensive.NoTooExpensive
+api-version: '1.21'
+author: hackatoa
+description: Removes the anvil "Too Expensive!" 40-level cap.

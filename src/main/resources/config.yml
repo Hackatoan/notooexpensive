@@ -1,0 +1,2 @@
+# Highest cost (in levels) an anvil operation may have. Vanilla is 40.
+max-repair-cost: 32767
