@@ -20,6 +20,14 @@ max-repair-cost: 32767   # vanilla is 40
 
 It sets `AnvilView#setMaximumRepairCost` when an anvil opens and again on every `PrepareAnvilEvent`.
 
+## Build
+
+```bash
+./gradlew build
+```
+
+The jar lands in `build/libs/NoTooExpensive.jar`. CI builds every push; pushing a `v*` tag publishes a GitHub release with the jar.
+
 ## Support
 
 [Buy me a coffee](https://buymeacoffee.com/hackatoa)

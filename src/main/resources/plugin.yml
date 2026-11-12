@@ -1,5 +1,5 @@
 name: NoTooExpensive
-version: 1.0.0
+version: '${version}'
 main: dev.hackatoa.notooexpensive.NoTooExpensive
 api-version: '1.21'
 author: hackatoa
